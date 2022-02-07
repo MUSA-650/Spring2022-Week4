@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week4: Supervised learning, bias variance threadoff, model complexity, SVM, satellite imaging, satellite imaging
+## Week4: Supervised learning, bias variance threadoff, model complexity, PCA
 
 This repository contains:
 
